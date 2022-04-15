@@ -8,6 +8,8 @@ cdns:
   - url: https://fonts.googleapis.com
   # jsDelivr CDN
   - url: https://cdn.jsdelivr.net
+  # sentry.io CDN
+  - url: https://js.sentry-cdn.com/bb0f1a0fc506431d8ea9628889629257.min.js
 
 # fonts
 
