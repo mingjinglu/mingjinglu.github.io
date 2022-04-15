@@ -63,6 +63,5 @@ polyfill:
 mathjax:
   js: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
 
-
 sentry:
   js: https://js.sentry-cdn.com/bb0f1a0fc506431d8ea9628889629257.min.js
