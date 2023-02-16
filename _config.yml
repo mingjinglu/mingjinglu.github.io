@@ -89,6 +89,9 @@ avatar: assets/img/favicons/android-chrome-512x512.png
 # boolean type, the global switch for ToC in posts.
 toc: true
 
+pwa:
+  enabled: true   # the option for PWA feature
+
 comments:
   active: giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
