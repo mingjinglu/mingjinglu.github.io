@@ -90,7 +90,7 @@ avatar: assets/img/favicons/android-chrome-512x512.png
 toc: true
 
 pwa:
-  enabled: false   # the option for PWA feature
+  enabled: true   # the option for PWA feature
 
 comments:
   active: giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
